@@ -27,3 +27,5 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ![image](https://github.com/CodyCCL/Notepad-app-11/assets/142187489/6d857830-af91-4031-9749-217c975cc205)
 
 ## Link
+Needs to be deployed in console with command 'npm start'
+https://codyccl.github.io/Notepad-app-11/
