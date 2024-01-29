@@ -29,3 +29,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Link
 Needs to be deployed in console with command 'npm start'
 https://codyccl.github.io/Notepad-app-11/
+
+## Note
+Challenge recieved assisted code from TA
